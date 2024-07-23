@@ -17,6 +17,6 @@ jobs:
       with:
         type: git
         app: files
-        environment: filetolink
+        environment: filetolinkbot
         username: ${{ secrets.APTIBLE_USERNAME }}
         password: ${{ secrets.APTIBLE_PASSWORD }}
